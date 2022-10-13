@@ -1,2 +1,2 @@
 # jumper
-Small web game built with JavaScript
+Small web game built with JavaScript, more info soon...
